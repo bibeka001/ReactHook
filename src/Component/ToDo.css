@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.total{
+    background-color:  rgb(169, 248, 169);
+    height: 100vh;
+}
+.h1style{
+    text-align: center;
+    padding-top: 60px;
+    border-color: red;
+
+}
+.bg-primary{
+    margin-left: 50%;
+    border-radius: 2px;
+}
